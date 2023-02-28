@@ -5,6 +5,7 @@ export const metadata = {
   description: 'Automatically generate a UI for your smart contract, hosted on our platform',
 }
 
+
 export default function RootLayout({
   children,
 }: {
