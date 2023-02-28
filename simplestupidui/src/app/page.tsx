@@ -39,6 +39,7 @@ export default function Home() {
     // // If server returns the name submitted, that means the form works.
     // const result = await response.json()
     // alert(`Is this your full name: ${result.data}`)
+    
   }
 
   return (
