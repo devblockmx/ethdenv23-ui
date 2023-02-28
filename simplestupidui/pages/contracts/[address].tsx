@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import { FormEvent } from 'react'
-import styles from './page.module.css'
+import styles from '../page.module.css'
 import { ethers } from "ethers";
 
 
